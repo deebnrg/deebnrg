@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on metabolic engineering using genome scale metabolic models.
 - 🌱 I’m currently learning more about github and big data analysis using jupyter notebooks.
-- 📫 How to reach me: dipsiii@gmail.com
+- 📫 How to reach me: testing...
 - 😄 Pronouns: She/Her
 
 <!--
